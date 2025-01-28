@@ -1,5 +1,5 @@
 SKU: 333025
-Full product name: 2-channel relay board with easyC
+Full product name: 2-channel relay board qwiic
 Country of origin: Croatia
-HS tariff code: 85364900
+HS tariff code: 85340090
 EAN/UPC barcode: 732388673902
